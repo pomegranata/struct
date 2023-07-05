@@ -3,7 +3,7 @@
 
 using namespace std;
 
-struct Persegi_Panjang{;
+struct Persegi_Panjang{
     void isi(int a, int b){
         panjang = a;
         lebar = b;
